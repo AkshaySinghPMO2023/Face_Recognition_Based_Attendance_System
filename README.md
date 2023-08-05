@@ -1,4 +1,4 @@
-# Projects
+# ****FACE RECOGNITION-BASED AUTOMATED ATTENDANCE SYSTEM****
 This project was created to mark an automated attendance system using Python and machine learning.
 
 ****FACE RECOGNITION-BASED AUTOMATED ATTENDANCE SYSTEM****
