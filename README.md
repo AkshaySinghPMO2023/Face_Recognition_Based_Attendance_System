@@ -37,14 +37,14 @@ facial recognition technology, and that is using face recognition-based
 attendance systems.
 
 **REQUIREMENT:**
-Python 3
-Anaconda
-PYQT5
-Face recognition lib
-OpenCV lib
-OS: Windows 7 or higher/Mac-os/Linux
-Min 1 Gb of RAM
-Min 32/64 bit architecture
+Python 3,
+Anaconda,
+PYQT5,
+Face recognition lib,
+OpenCV lib,
+OS: Windows 7 or higher/Mac-os/Linux,
+Min 1 Gb of RAM,
+Min 32/64 bit architecture,
 
 **WORKING EXPLANATION:**
 Facial recognition technology can be used in recording the
