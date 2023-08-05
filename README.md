@@ -58,18 +58,18 @@ the database then this image is stored as a new image onto the
 database. In this system, there are possibilities for the camera not to
 capture the image properly or it may miss some of the students from
 capturing.
-CONCLUSION:
+
+**CONCLUSION:**
 Thus, this project aims to capture the video of the students,
 convert it into frames, and relate it with the database to ensure their
 presence or absence, mark attendance to the particular student to
 maintain the record. The Automated Classroom Attendance System
 
 helps in increasing the accuracy and speed ultimately achieving high-
-precision real-time attendance to meet the need for automatic classroom
+precision real-time attendance to meet the need for automatic classroom evaluation
 
-evaluation
+
 **FUTURE SCOPE:**
-
 An automated Attendance System can be implemented in larger areas
 like in a seminar hall where it helps in sensing the presence of many
 people.
