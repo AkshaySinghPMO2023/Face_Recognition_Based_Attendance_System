@@ -77,5 +77,5 @@ Sometimes the poor lighting condition of the classroom may affect the image
 quality which indirectly degrades system performance, this can be
 overcome in the latter stage by improving the quality of the video or by using some algorithms
 
-**CC RIGHT RESERVED BY**
+**©**
  ****AKSHAY SINGH****
