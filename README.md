@@ -1,2 +1,3 @@
 # Projects
-This project is created to marking automated attendance system using Pyhton and machine learning
+This project was created to marking an automated attendance system using Python and machine learning.
+By **AKSHAY SINGH**
