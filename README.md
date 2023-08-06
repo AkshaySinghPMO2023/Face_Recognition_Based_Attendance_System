@@ -7,10 +7,8 @@ This project was created to mark an automated attendance system using Python and
 Automatic face recognition (AFR) technologies have made many
 improvements in the changing world. Smart Attendance using Real-Time
 Face Recognition is a real-world solution that comes with day-to-day
-
 activities of handling student attendance systems. A face recognition-
 based attendance system is a process of recognizing the student's face
-
 for taking attendance by using face biometrics based on high-definition
 monitor video and other information technology. In my face recognition
 project, a computer system will be able to find and recognize human
@@ -22,7 +20,7 @@ but the concept to be implemented here is Deep Learning.
 **INTRODUCTION:**
 With the advancement of technologies every day, humanity is
 slowly going towards contactless everything. It is quite evident that the
-future ahead of us will become so advance that maybe 90%+
+future ahead of us will become so advanced that maybe 90%+
 things that we are doing right now will be either automated or become
 contactless. One such advancement will be facial recognition technology
 or FR tech, which is the prime focus of this article.
